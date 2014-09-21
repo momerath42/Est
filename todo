@@ -1,0 +1,22 @@
+0. more data
+1. editable location list
+2. essentially-instantaneous events
+3. modal activities (sleep)
+4. non-modal activities (2-class states)
+5. continuous multi-class states
+6. easily configurable ui - similar to a home screen
+7. auto-upload during sleep
+8. auto-learning during sleep
+9. web interface to simple weka output
+10. spiral interface 
+
+other stuff:
+reminders to set specific important states (including selectable audio)
+
+
+business model:
+1. release gpl source: as soon as it's reasonably useful to me, and there aren't any super-easy-to-add features from the basic set left to add
+2. mearnag site for power users - apk download - paypal donation or maybe kickstarter
+3. expensive hand-holding service (data hosting, data-capture setup consulting, sanity checking, phone support, 1 analysis included)
+4. free market app with IAP donation and hand-holding purchase
+5. automated cheaper hosted option (separate app (assumed settings hidden) and IAP)

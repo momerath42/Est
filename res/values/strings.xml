@@ -2,4 +2,5 @@
 <resources>
     <string name="hello">Hello World, Training!</string>
     <string name="app_name">Est</string>
+    <string name="add_location">Add</string>
 </resources>
